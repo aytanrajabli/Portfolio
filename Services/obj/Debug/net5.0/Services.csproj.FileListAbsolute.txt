@@ -1,0 +1,17 @@
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\Services.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\ref\Services.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.pdb
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\Entities.dll
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\bin\Debug\net5.0\Entities.pdb
+C:\Users\Aytan\source\repos\PortfolioAytanRajabli\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
